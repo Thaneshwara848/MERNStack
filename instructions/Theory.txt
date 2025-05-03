@@ -1,0 +1,22 @@
+open front end folder 
+	-> open commend prompt : code .
+	-> ng serve 
+
+Angular Application  will Run on 4200
+
+--------------------------------------
+
+Open back end folder 
+	-- open commend prompt : code .
+	-- node server.js 
+		means we are running the server js file 
+
+	
+-----------------------
+open mongo DB 
+
+	productdB
+		products 
+
+ 
+	 
