@@ -18,5 +18,7 @@ open mongo DB
 	productdB
 		products 
 
- 
+ ====================== with swagger 
+npm install swagger-ui-express swagger-jsdoc
+
 	 
